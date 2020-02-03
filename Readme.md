@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Alexander Baude](https://up.htmlacademy.ru/htmlcss/27/user/1190531).
-* Наставник: `Ольга Вадясова`.
+* Наставник:[Ольга Вадясова](https://up.htmlacademy.ru/htmlcss/27/user/46068). 
 
 ---
 
